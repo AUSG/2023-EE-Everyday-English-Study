@@ -37,7 +37,7 @@
 ```java
 [The Date of Writing]_[Name]_[The title of your writing that you chose]
 
-e.g) [9/1]_JinCheol_The Key of Success - Grit
+e.g) [9.1]_JinCheol_The Key of Success - Grit
 ```
 
 <br>
