@@ -1,0 +1,34 @@
+초안..(부끄럽네요,,,)
+
+First, Thanks for openning this study to JinCheol.
+I really usually want to study english for my growing up and graduating test.
+
+Okay, Let's start my review about LoRA paper.
+LoRA is short for Low Rank Adaption.
+Today, as ML models grow in size, the resources for training and time is needed too much.
+In this paper, they provide a solution that can reduce recoures and time to training.
+
+In my case, i try to training LLM for my research.
+but my resources is limited and generally the llm is too large to training in general environments.
+So i want to study about efficient fine-tuning.
+LoRA is one of efficient fine-tuing algorithms.
+
+In this section, i explain about 'Problem Definition' and 'Motivation' for studying LoRA paper.
+I will be back next time for 'Method' and 'Experiment'.
+Thank you.
+
+
+Chat-GPT가 바꿔준것..
+
+"LoRA" is short for "Low Rank Adaptation." 
+In today's world, as ML models continue to increase in size, the need for resources and time for training has also grown substantially. 
+In this paper, the authors propose a solution that can significantly reduce the resources and time required for training.
+
+In my case, I am attempting to train a Large Language Model (LLM) for my research. 
+However, my resources are limited, and LLMs are generally too large to be trained in typical environments. 
+Therefore, I am interested in exploring efficient fine-tuning methods, and LoRA is one such efficient fine-tuning algorithm.
+
+In this section, I will explain the "Problem Definition" and the "Motivation" behind my study of the LoRA paper. 
+I will return next time to discuss the "Method" and the "Experiment" sections. 
+Thank you.
+
